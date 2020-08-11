@@ -1,0 +1,19 @@
+body {
+	background-color:  #C9E4CA;
+
+}
+
+#app {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 90vw;
+
+}
+
+.mb {
+	margin-bottom:auto;
+overflow: scroll;
+	
+}
